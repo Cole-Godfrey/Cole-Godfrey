@@ -1,7 +1,18 @@
-### Hello, I'm Cole.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cole-godfrey.cole-godfrey"/>
 
-👩🏻‍💻 Software engineer specializing in full-stack development and deep learning.<br/>
-👩🏻‍🎓 Undergraduate student at Washington State University, pursuing a degree in computer science.<br/>
-💭 Currently developing my personal portfolio website.<br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=D4AF37&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cole+Godfrey!;" />
+</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cole-godfrey&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=true)
+<h3 align="center">A passionate software developer from Seattle</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on [**my portfolio website**](https://github.com/cole-godfrey/portfolio)
+ 
+ 🌱 I’m currently learning **React, GSAP, Three.js & Tailwind**
+ 
+ </div>
+
