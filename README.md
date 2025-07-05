@@ -10,9 +10,9 @@
 
 <div align="center">
  
- Currently working on [**my portfolio website**](https://github.com/cole-godfrey/portfolio)
+ Currently working on [**an Audio CNN from scratch**](https://github.com/cole-godfrey/audio-cnn)
  
- Currently learning **React, GSAP, Three.js & Tailwind**
+ Currently learning **Python, PyTorch, Next.js, React & Tailwind**
  
  </div>
 
@@ -30,7 +30,8 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,threejs,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=react,,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,nextjs,threejs"/>
 </div>
 
 <br/>
