@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on [**an Audio CNN from scratch**](https://github.com/cole-godfrey/audio-cnn)
+ Currently working on [**my portfolio**](https://github.com/cole-godfrey/portfolio)
  
  Currently learning **Python, PyTorch, Next.js, React & Tailwind**
  
