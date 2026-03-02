@@ -11,8 +11,8 @@
 <div align="center">
  
  Currently working on:
- * [**ClipPolish**](https://github.com/cole-godfrey/clippolish)
- * Researching applications of flow matching in safe offline reinforcement learning.
+ [**ClipPolish**](https://github.com/cole-godfrey/clippolish)
+ Researching applications of flow matching in safe offline reinforcement learning.
  
  
  Currently learning **Swift**
