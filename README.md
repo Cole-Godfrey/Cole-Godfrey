@@ -4,15 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=D4AF37&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello;+I'm+Cole+Godfrey;" />
 </h1>
 
-<h3 align="center">An undergrad CS student with a passion for deep learning.</h3>
+<h3 align="center">An undergrad CS student with a passion for software development, machine learning, and quantitative finance</h3>
 
 <br/>
 
 <div align="center">
  
- Currently working on [**my portfolio**](https://github.com/cole-godfrey/portfolio)
+ Currently working on:
+ * [**ClipPolish**](https://github.com/cole-godfrey/clippolish)
+ * Researching applications of flow matching in safe offline reinforcement learning.
  
- Currently learning **Python, PyTorch, Next.js, React & Tailwind**
+ 
+ Currently learning **Swift**
  
  </div>
 
