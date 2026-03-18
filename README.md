@@ -28,11 +28,11 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda"/>
 </div>
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,nextjs,threejs"/>
-</div>
+</div> -->
 
 <br/>
 <hr/>
