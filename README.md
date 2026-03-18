@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: [**learning Tensorflow**](https://github.com/cole-godfrey/tensorEnv).
+ Currently working on: [**learning machine learning in python**](https://github.com/cole-godfrey/tensorEnv).
  
  </div>
 
