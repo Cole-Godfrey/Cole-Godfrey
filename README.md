@@ -27,9 +27,21 @@
  
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
+
+<h3 align="center">Machine Learning</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda"/>
 </div>
+<br/>
+
+<!-- <h3 align="center">Algorithmic Trading</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i="/>
+</div>
+</br> -->
+
+
+
 <!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,nextjs,threejs"/>
 </div> -->
