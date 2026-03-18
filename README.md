@@ -1,18 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cole-godfrey.cole-godfrey"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=D4AF37&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello;+I'm+Cole+Godfrey;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=32A852&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello;+I'm+Cole+Godfrey;" />
 </h1>
 
-<h3 align="center">An undergrad CS student with an interest in software development, deep learning, and quantitative finance</h3>
+<h3 align="center">An undergrad CS student interested in full-stack development, machine learning, and algorithmic trading.</h3>
 
 <br/>
 
 <div align="center">
  
- Currently working on: [**ClipPolish**](https://github.com/cole-godfrey/clippolish)
- 
- Currently learning **Swift**
+ Currently working on: [**learning Tensorflow**](https://github.com/cole-godfrey/tensorEnv).
  
  </div>
 
