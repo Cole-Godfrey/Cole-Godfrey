@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: [**learning Python**](https://github.com/cole-godfrey/helloworld), and [**learning machine learning with TensorFlow**](https://github.com/cole-godfrey/tensorEnv).
+ Currently working on: [**learning Python**](https://github.com/cole-godfrey/helloworld), and [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning).
  
  </div>
 
@@ -30,7 +30,7 @@
 
 <h3 align="center">Machine Learning</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda"/>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda,sklearn"/>
 </div>
 <br/>
 
