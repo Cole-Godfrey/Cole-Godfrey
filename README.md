@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: [**learning Python**](https://github.com/cole-godfrey/helloworld), and [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning).
+ Currently working on: [**learning Python**](https://github.com/cole-godfrey/helloworld), [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning), and [**learning algorithmic trading using Python**](https://github.com/Cole-Godfrey/AlgorithmicTradingPython).
  
  </div>
 
@@ -34,11 +34,11 @@
 </div>
 <br/>
 
-<!-- <h3 align="center">Algorithmic Trading</h3>
+<h3 align="center">Algorithmic Trading</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i="/>
+    <img src="https://skillicons.dev/icons?i=py"/>
 </div>
-</br> -->
+</br>
 
 
 
