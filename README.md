@@ -30,13 +30,13 @@
 
 <h3 align="center">Machine Learning</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=py,sklearn"/>
 </div>
 <br/>
 
 <h3 align="center">Algorithmic Trading</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,docker"/>
+    <img src="https://skillicons.dev/icons?i=py"/>
 </div>
 </br>
 
