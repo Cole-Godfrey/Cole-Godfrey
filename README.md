@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: [**learning Python**](https://github.com/cole-godfrey/python), [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning), and [**learning algorithmic trading using Python**](https://github.com/Cole-Godfrey/AlgorithmicTradingPython).
+ Currently working on: [**learning Python**](https://github.com/cole-godfrey/python), [**neural networks in Python using Tensorflow**](https://github.com/cole-godfrey/pythonneuralnetworks), and [**learning algorithmic trading using Python**](https://github.com/Cole-Godfrey/AlgorithmicTradingPython).
  
  </div>
 
@@ -30,7 +30,7 @@
 
 <h3 align="center">Machine Learning</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow"/>
 </div>
 <br/>
 
