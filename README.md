@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: [**learning Python**](https://github.com/cole-godfrey/helloworld), [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning), and [**learning algorithmic trading using Python**](https://github.com/Cole-Godfrey/AlgorithmicTradingPython).
+ Currently working on: [**learning Python**](https://github.com/cole-godfrey/python), [**learning machine learning in Python**](https://github.com/cole-godfrey/pythonmachinelearning), and [**learning algorithmic trading using Python**](https://github.com/Cole-Godfrey/AlgorithmicTradingPython).
  
  </div>
 
