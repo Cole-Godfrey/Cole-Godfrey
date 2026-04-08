@@ -36,7 +36,7 @@
 
 <h3 align="center">Algorithmic Trading</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py"/>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow"/>
 </div>
 </br>
 
