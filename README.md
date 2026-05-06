@@ -1,0 +1,50 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cole-godfrey.cole-godfrey"/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=C0C0C0&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello;+I'm+Cole+Godfrey;" />
+</h1>
+
+<h3 align="center">An undergrad CS student interested in full-stack development, machine learning, and algorithmic trading.</h3>
+
+<br/>
+
+<div align="center">
+ 
+ Currently working on: **a backtesting engine for Kalshi 15M crypto markets**, [**interview prepping with NeetCode 150**](https://github.com/cole-godfrey/neetcode-submissions), and **an expense tracker mobile app**.
+ 
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:colegodfrey34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/c-godfrey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">Skills</h2>
+<br/>
+
+<h3 align="center">Machine Learning</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow"/>
+</div>
+<br/>
+
+<h3 align="center">Algorithmic Trading</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow"/>
+</div>
+</br>
+
+
+
+<!-- <div align="center">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,nextjs,threejs"/>
+</div> -->
+
+<br/>
+<hr/>
