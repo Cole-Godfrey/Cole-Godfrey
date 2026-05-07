@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on: **a backtesting engine for Kalshi 15M crypto markets**, [**interview prepping with NeetCode 150**](https://github.com/cole-godfrey/neetcode-submissions), and **an expense tracker mobile app**.
+ Currently working on a backtesting engine for Kalshi.
  
  </div>
 
