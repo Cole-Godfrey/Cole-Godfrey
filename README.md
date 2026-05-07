@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Currently working on a backtesting engine for Kalshi and [Archai](https://github.com/Cole-Godfrey/Cole-Godfrey/archai).
+ Currently working on a backtesting engine for Kalshi and [Archai](https://github.com/Cole-Godfrey/archai).
  
  </div>
 
