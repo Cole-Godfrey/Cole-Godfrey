@@ -24,27 +24,25 @@
 </div>
 
 <hr/>
- 
+
 <h2 align="center">Skills</h2>
 <br/>
 
-<h3 align="center">Machine Learning</h3>
+<h3 align="center">Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=py,ts,cpp,c,haskell,java"/>
 </div>
 <br/>
 
-<h3 align="center">Algorithmic Trading</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,nextjs,fastapi,react"/>
 </div>
-</br>
+<br/>
 
-
-
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,nextjs,threejs"/>
-</div> -->
-
+<h3 align="center">Developer Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,git,pycharm,webstorm"/>
+</div>
 <br/>
 <hr/>
