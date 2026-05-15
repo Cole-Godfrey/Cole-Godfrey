@@ -23,7 +23,16 @@
 <hr/>
 
 <h2 align="center">Projects</h2>
+
+<p align="center">
+  For the full chronological list of projects, see 
+  <a href="PROJECT_LOG.md">PROJECT_LOG.md</a>.
+</p>
+
 <br/>
+
+<!--
+<h3 align="center">Full Stack</h3>
 
 <!--
 <h3 align="center">Full Stack</h3>
