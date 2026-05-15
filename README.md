@@ -25,7 +25,7 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  For the full chronological list of projects, see 
+  For a chronological list of all projects, see 
   <a href="PROJECT_LOG.md">PROJECT_LOG.md</a>.
 </p>
 
