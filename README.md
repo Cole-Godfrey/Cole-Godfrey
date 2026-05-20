@@ -14,6 +14,10 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
+[GPT Trading Bot](https://github.com/Cole-Godfrey/gpt-trading-bot)
+
+[Regime Changes](https://github.com/Cole-Godfrey/regime-changes)
+
 </div>
 
 <br/>
@@ -29,7 +33,7 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  For a chronological list of all projects, see 
+  For a chronological list of all completed projects, see 
   <a href="PROJECT_LOG.md">PROJECT_LOG.md</a>.
 </p>
 
