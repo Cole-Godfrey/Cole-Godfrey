@@ -8,11 +8,15 @@
 
 <br/>
 
+<h3 align="center">Currently Working On</h3>
+
 <div align="center">
- 
- Currently working on [Archai](https://github.com/Cole-Godfrey/archai).
- 
+
+[Archai](https://github.com/Cole-Godfrey/archai)
+
 </div>
+
+<br/>
 
 <div align="center"> 
   <a href="https://linkedin.com/in/c-godfrey">
