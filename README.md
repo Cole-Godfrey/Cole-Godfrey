@@ -14,8 +14,6 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
-[GPT Trading Bot](https://github.com/Cole-Godfrey/gpt-trading-bot)
-
 [Regime Changes](https://github.com/Cole-Godfrey/regime-changes)
 
 </div>
