@@ -14,6 +14,8 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
+[Deep RL](https://github.com/Cole-Godfrey/deep-reinforcement-learning)
+
 </div>
 
 <br/>
