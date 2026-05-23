@@ -74,6 +74,8 @@ ML Project 3
 
 [Momentum Strategy](https://github.com/Cole-Godfrey/momentum-strategy)
 
+[Regime Changes](https://github.com/Cole-Godfrey/regime-changes)
+
 </div>
 
 <br/>
