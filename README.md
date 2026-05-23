@@ -14,8 +14,6 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
-[Regime Changes](https://github.com/Cole-Godfrey/regime-changes)
-
 </div>
 
 <br/>
