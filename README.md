@@ -40,9 +40,6 @@
 <!--
 <h3 align="center">Full Stack</h3>
 
-<!--
-<h3 align="center">Full Stack</h3>
-
 <div align="center">
 
 [Archai](https://github.com/Cole-Godfrey/archai)
@@ -54,21 +51,17 @@ Project 3
 </div>
 
 <br/>
+-->
 
 <h3 align="center">Machine Learning</h3>
 
 <div align="center">
 
-ML Project 1
-
-ML Project 2
-
-ML Project 3
+[DQN CartPole](https://github.com/Cole-Godfrey/dqn-cartpole)
 
 </div>
 
 <br/>
--->
 
 <h3 align="center">Algorithmic Trading</h3>
 
@@ -95,11 +88,14 @@ ML Project 3
 
 <h3 align="center">Frameworks & Libraries</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras%20RL2-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </div>
 <br/>
 
