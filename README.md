@@ -14,8 +14,6 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
-[Deep RL](https://github.com/Cole-Godfrey/deep-reinforcement-learning)
-
 [Kalshi Python](https://github.com/Cole-Godfrey/kalshi-python)
 
 </div>
