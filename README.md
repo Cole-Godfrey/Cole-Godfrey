@@ -14,6 +14,8 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
+[DQN Agent for Space Invaders](https://github.com/cole-godfrey/dqn-space-invaders.ipynb)
+
 [Kalshi Python](https://github.com/Cole-Godfrey/kalshi-python)
 
 </div>
