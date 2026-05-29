@@ -18,6 +18,8 @@
 
 [Kalshi Python](https://github.com/Cole-Godfrey/kalshi-python)
 
+[Clash of Clans Bot (Alpha)](https://github.com/Cole-Godfrey/coc-bot-alpha)
+
 </div>
 
 <br/>
