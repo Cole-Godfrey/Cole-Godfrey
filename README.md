@@ -60,6 +60,7 @@ Project 3
 <div align="center">
 
 [DQN CartPole](https://github.com/Cole-Godfrey/dqn-cartpole)
+
 [DQN Space Invaders](https://github.com/cole-godfrey/dqn-space-invaders)
 
 </div>
