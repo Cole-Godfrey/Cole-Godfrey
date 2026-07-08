@@ -12,8 +12,6 @@
 
 <div align="center">
 
-[Archai](https://github.com/Cole-Godfrey/archai)
-
 [Kalshi Python](https://github.com/Cole-Godfrey/kalshi-python)
 
 [Clash of Clans Bot (Alpha)](https://github.com/Cole-Godfrey/coc-bot-alpha)
@@ -39,21 +37,17 @@
 
 <br/>
 
-<!--
+
 <h3 align="center">Full Stack</h3>
 
 <div align="center">
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
-Project 2
-
-Project 3
-
 </div>
 
 <br/>
--->
+
 
 <h3 align="center">Machine Learning</h3>
 
