@@ -14,8 +14,6 @@
 
 [Archai](https://github.com/Cole-Godfrey/archai)
 
-[DQN Agent for Space Invaders](https://github.com/cole-godfrey/dqn-space-invaders)
-
 [Kalshi Python](https://github.com/Cole-Godfrey/kalshi-python)
 
 [Clash of Clans Bot (Alpha)](https://github.com/Cole-Godfrey/coc-bot-alpha)
@@ -62,6 +60,7 @@ Project 3
 <div align="center">
 
 [DQN CartPole](https://github.com/Cole-Godfrey/dqn-cartpole)
+[DQN Space Invaders](https://github.com/cole-godfrey/dqn-space-invaders)
 
 </div>
 
