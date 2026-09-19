@@ -10,7 +10,10 @@
 
 <div align="center">
  
- Currently working on a [stock exchange](https://github.com/Cole-Godfrey/stock_exchange) from scratch in C++.
+ Currently working on:
+ - [stock exchange](https://github.com/Cole-Godfrey/stock_exchange) from scratch in C++.
+ - [Weather Prediction Market Trading Bot](https://github.com/Cole-Godfrey/SeattleWeatherTradingBot)
+ 
  
  </div>
 
