@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=32A852&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello;+I'm+Cole+Godfrey;" />
 </h1>
 
-<h3 align="center">CS @ WSU</h3>
+<h3 align="center">CS @ WSU | Safe RL Researcher</h3>
 
 <br/>
 
