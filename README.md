@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cole-godfrey.cole-godfrey"/>
 
 <h1 align="center">
@@ -12,7 +13,9 @@
 
   Currently working on:
 
-  <a href="https://github.com/Cole-Godfrey/helsinki-python-mooc">helsinki-python-mooc</a>
+  <a href="https://github.com/Cole-Godfrey/helsinki-python-mooc">Helsinki Python MOOC</a>
+
+  <a href="https://lichess.org/learn">Learning Chess on Lichess</a>
 
 </div>
 
