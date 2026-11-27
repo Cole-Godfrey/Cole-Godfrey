@@ -12,8 +12,12 @@
  
  Currently working on:  
    
- [Formally verifying the entirety of mathematics](https://github.com/Cole-Godfrey/math)
- 
+ NFL Big Data Bowl 2027
+ Trading Algos
+ My personal site (coming soon!!!)
+ Various freelance work
+ Continual learning research
+ 2027 internship
  
  </div>
 
